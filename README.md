@@ -1,5 +1,5 @@
 # Cylindrical Capacitor simulation in COMSOL
-Simple COMSOL simulation to calculate capacitance of a cylindrical capacitor.
+Simple COMSOL simulation to calculate capacitance of a cylindrical capacitor filled with mica with relative permittivity 6.8 .
 ## Geometry
 ![Geometry](https://github.com/arizanloo/Cylindrical-Capacitor-COMSOL/blob/main/Figure.png)
 ## Results
