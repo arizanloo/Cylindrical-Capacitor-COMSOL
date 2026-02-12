@@ -7,3 +7,5 @@ Distribution of electric potential and electric field arrows inside the capacito
 ![Results](https://github.com/arizanloo/Cylindrical-Capacitor-COMSOL/blob/main/Results.png)
 
 Maxwell capacitance is 0.547 nF.
+## Software
+This project was created using COMSOL Multiphysics 6.3 . 
